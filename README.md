@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...Cyber Security
 - 🌱 I’m currently learning ...Java Since 2022
 - 💞️ I’m looking to collaborate on ...Google
-- 📫 How to reach me ...With Hard Work I will reach there soon
-
+- 📫 How to reach me ....Abhi._71 - Twitter Account
 
 🤍
 
