@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Abhi71
-- 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Java Since 2022
-- 💞️ I’m looking to collaborate on ...Google
-- 📫 How to reach me ....Abhi._71 - Twitter Account
-
-🤍
 
 <!---
 Abhii71/Abhii71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
